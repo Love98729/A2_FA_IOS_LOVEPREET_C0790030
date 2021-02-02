@@ -18,6 +18,7 @@
 		7AA02A2525C8ACFD005A7A1C /* Product+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA02A2425C8ACFD005A7A1C /* Product+CoreDataProperties.swift */; };
 		7AA02A2825C8AD11005A7A1C /* ProductDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA02A2725C8AD11005A7A1C /* ProductDetailVC.swift */; };
 		7AA02A2B25C8AD31005A7A1C /* Products.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7AA02A2A25C8AD31005A7A1C /* Products.plist */; };
+		7AA02A3225C8BC43005A7A1C /* UpdationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA02A3125C8BC43005A7A1C /* UpdationVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		7AA02A2425C8ACFD005A7A1C /* Product+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Product+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		7AA02A2725C8AD11005A7A1C /* ProductDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductDetailVC.swift; sourceTree = "<group>"; };
 		7AA02A2A25C8AD31005A7A1C /* Products.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Products.plist; sourceTree = "<group>"; };
+		7AA02A3125C8BC43005A7A1C /* UpdationVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpdationVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				7AA02A0925C8A860005A7A1C /* ViewController.swift */,
 				7AA02A1D25C8A8EA005A7A1C /* Main.storyboard */,
 				7AA02A2125C8ACEB005A7A1C /* Product+CoreDataClass.swift */,
+				7AA02A3125C8BC43005A7A1C /* UpdationVC.swift */,
 				7AA02A2725C8AD11005A7A1C /* ProductDetailVC.swift */,
 				7AA02A2A25C8AD31005A7A1C /* Products.plist */,
 				7AA02A2425C8ACFD005A7A1C /* Product+CoreDataProperties.swift */,
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AA02A0A25C8A860005A7A1C /* ViewController.swift in Sources */,
+				7AA02A3225C8BC43005A7A1C /* UpdationVC.swift in Sources */,
 				7AA02A0625C8A860005A7A1C /* AppDelegate.swift in Sources */,
 				7AA02A2525C8ACFD005A7A1C /* Product+CoreDataProperties.swift in Sources */,
 				7AA02A1025C8A860005A7A1C /* A2_FA_IOS_LOVEPREET_C0790030.xcdatamodeld in Sources */,
